@@ -6,10 +6,10 @@ export default function NavBar (){
         <h1 style = {{color: 'brown'}}>PRIMER DESAFÍO ENTREGALE - NAVBAR</h1>
             <div>
                 <ul>
-                    <li style={{color: 'red'}}>INICIO</li>
-                    <li style={{color: 'red'}}>NOSOTROS</li>
-                    <li style={{color: 'red'}}>PRODUCTOS</li>
-                    <li style={{color: 'red'}}>MI PERFIL</li>
+                    <li style={{color: 'blue'}}>INICIO</li>
+                    <li style={{color: 'blue'}}>NOSOTROS</li>
+                    <li style={{color: 'blue'}}>PRODUCTOS</li>
+                    <li style={{color: 'blue'}}>MI PERFIL</li>
                 </ul>
             </div>
         </>
